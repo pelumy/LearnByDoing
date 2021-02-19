@@ -10,10 +10,11 @@ import SwiftUI
 struct ContentView: View {
     // MARK: - PROPERTIES
     
+    
     // MARK: - BODY
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        CardView()
+            
     }
 }
 
